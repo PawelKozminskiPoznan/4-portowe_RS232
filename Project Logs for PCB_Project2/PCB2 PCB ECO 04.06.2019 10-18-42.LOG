@@ -1,0 +1,13 @@
+Added Component: Designator=J5(61400416021)
+Added Pin To Net: NetName=NetC28_1 Pin=J5-1
+Added Pin To Net: NetName=SHIELD Pin=J5-4
+Added Pin To Net: NetName=SHIELD Pin=J5-Shell
+Added Pin To Net: NetName=SHIELD Pin=J5-Shell
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-2
+Added Pin To Net: NetName=NetJ5_2 Pin=U1-7
+Added Net: Name=NetJ5_2
+Added Pin To Net: NetName=NetJ5_3 Pin=J5-3
+Added Pin To Net: NetName=NetJ5_3 Pin=U1-8
+Added Net: Name=NetJ5_3
+Added Member To Class: ClassName=RS232 Member=Component J5 61400416021
+Added Room: Name=RS232

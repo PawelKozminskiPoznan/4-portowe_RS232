@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=NetC30_2 New Net Name=OSC_P
+Change Net Name : Old Net Name=NetC31_2 New Net Name=OSC_N
+Added Differential Pair: Name=OSC
+Added Room: Name=RS232
