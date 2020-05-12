@@ -1,7 +1,7 @@
 # 4-portowe_RS232
 
-![la](la.png)
+![la](la.PNG)
 
-![la2](la2.png)
+![la2](la2.PNG)
 
-![la3](la3.png)
+![la3](la3.PNG)
